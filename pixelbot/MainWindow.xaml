@@ -9,7 +9,7 @@
     <Grid>
         <Button Name ="ButtonSearchPixel" Click="OnButtonSearchPixelClick" Content="Search Pixel" HorizontalAlignment="Center"
                 Margin="0, 50, 0, 0" VerticalAlignment="Center" Width="200" Height="30"/>
-        <TextBox Name="TextBoxHexColor" HorizontalAlignment="Center" Margin="0, 0, 0, 80" TextWrapping="Wrap" Text="#fffffff"
+        <TextBox Name="TextBoxHexColor" HorizontalAlignment="Center" Margin="0, 0, 0, 80" TextWrapping="Wrap" Text="#ffffff"
                  VerticalAlignment="Center" Width="200" Height="30" HorizontalContentAlignment="Center"/> 
     </Grid>
 </Window>

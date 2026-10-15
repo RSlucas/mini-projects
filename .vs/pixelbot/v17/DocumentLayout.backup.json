@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\OneDrive\\Desktop\\miniproj.cs\\pixelbot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C38B0FD-7136-4B09-98EA-685DB4FC9D5A}|pixelbot\\pixelbot.csproj|c:\\users\\lucas\\onedrive\\desktop\\miniproj.cs\\pixelbot\\pixelbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C38B0FD-7136-4B09-98EA-685DB4FC9D5A}|pixelbot\\pixelbot.csproj|solutionrelative:pixelbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C38B0FD-7136-4B09-98EA-685DB4FC9D5A}|pixelbot\\pixelbot.csproj|C:\\Users\\Lucas\\OneDrive\\Desktop\\miniproj.cs\\pixelbot\\pixelbot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C38B0FD-7136-4B09-98EA-685DB4FC9D5A}|pixelbot\\pixelbot.csproj|solutionrelative:pixelbot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C38B0FD-7136-4B09-98EA-685DB4FC9D5A}|pixelbot\\pixelbot.csproj|c:\\users\\lucas\\onedrive\\desktop\\miniproj.cs\\pixelbot\\pixelbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C38B0FD-7136-4B09-98EA-685DB4FC9D5A}|pixelbot\\pixelbot.csproj|solutionrelative:pixelbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,25 +38,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Lucas\\OneDrive\\Desktop\\miniproj.cs\\pixelbot\\pixelbot\\MainWindow.xaml",
               "RelativeDocumentMoniker": "pixelbot\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Lucas\\OneDrive\\Desktop\\miniproj.cs\\pixelbot\\pixelbot\\MainWindow.xaml",
-              "RelativeToolTip": "pixelbot\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lucas\\OneDrive\\Desktop\\miniproj.cs\\pixelbot\\pixelbot\\MainWindow.xaml*",
+              "RelativeToolTip": "pixelbot\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-14T18:26:59.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\OneDrive\\Desktop\\miniproj.cs\\pixelbot\\pixelbot\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "pixelbot\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Lucas\\OneDrive\\Desktop\\miniproj.cs\\pixelbot\\pixelbot\\MainWindow.xaml.cs",
               "RelativeToolTip": "pixelbot\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwEUAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwEUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T18:26:58.824Z",
               "EditorCaption": ""

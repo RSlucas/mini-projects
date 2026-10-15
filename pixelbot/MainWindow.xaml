@@ -5,11 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:pixelbot"
         mc:Ignorable="d"
-        Title="PixelBot" Height="400" Width="400" ResizeMode="NoResize" Background="#FF2C2C2C">
+        Title="PixelBot" Height="400" Width="400" ResizeMode="NoResize" Background="SteelBlue"  >
     <Grid>
+        <Label Content="                      Set your HEX code:" HorizontalAlignment="Center" Margin="0,94,0,105" Width="268" Background="AliceBlue" />
+
         <Button Name ="ButtonSearchPixel" Click="OnButtonSearchPixelClick" Content="Search Pixel" HorizontalAlignment="Center"
                 Margin="0, 50, 0, 0" VerticalAlignment="Center" Width="200" Height="30"/>
         <TextBox Name="TextBoxHexColor" HorizontalAlignment="Center" Margin="0, 0, 0, 80" TextWrapping="Wrap" Text="#ffffff"
-                 VerticalAlignment="Center" Width="200" Height="30" HorizontalContentAlignment="Center"/> 
+                 VerticalAlignment="Center" Width="200" Height="30" HorizontalContentAlignment="Center"/>
     </Grid>
 </Window>
